@@ -1,0 +1,5 @@
+﻿# 開発用のセッティングファイル
+# ディスプレイモードの設定 iPhone5かiPhone4、それ以外はiPhone4と判断
+[DisplayMode] iPhone5
+
+
